@@ -12,7 +12,6 @@ This project showcases an advanced Retrieval-Augmented Generation (RAG) chatbot 
 - **Multiple LLM Options:** Allows switching between LLaMA3 and GPT-2 for generating responses.
 - **Flexible Query Mode:** Users can choose between RAG mode (local content + Wikipedia + LLM) and LLM-only mode.
 - **User-Friendly UI:** Built with Streamlit for seamless user interaction.
-- **Offline Accessibility:** By using local PDFs, the chatbot can answer queries without an internet connection.
 - **Efficient Document Retrieval:** Incorporates FAISS indexing for fast access to relevant medical information.
 - **Query Caching:** Stores recent queries and responses to minimize re-processing, enhancing speed and efficiency.
 
